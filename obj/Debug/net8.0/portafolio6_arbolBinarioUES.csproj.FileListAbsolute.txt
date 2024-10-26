@@ -1,0 +1,15 @@
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.GeneratedMSBuildEditorConfig.editorconfig
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.AssemblyInfoInputs.cache
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.AssemblyInfo.cs
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.csproj.CoreCompileInputs.cache
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.sourcelink.json
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/bin/Debug/net8.0/portafolio6_arbolBinarioUES
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/bin/Debug/net8.0/portafolio6_arbolBinarioUES.deps.json
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/bin/Debug/net8.0/portafolio6_arbolBinarioUES.runtimeconfig.json
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/bin/Debug/net8.0/portafolio6_arbolBinarioUES.dll
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/bin/Debug/net8.0/portafolio6_arbolBinarioUES.pdb
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.dll
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/refint/portafolio6_arbolBinarioUES.dll
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.pdb
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/portafolio6_arbolBinarioUES.genruntimeconfig.cache
+/home/manuel/Documentos/estructura/computo3/portafolio6_arbolBinarioUES/obj/Debug/net8.0/ref/portafolio6_arbolBinarioUES.dll
